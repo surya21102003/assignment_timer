@@ -36,7 +36,6 @@ npm start,
 The app will run at: http://localhost:3000
 
 🗂 Folder Structure
-
 src/
 ├── App.js                 # Root component with routing and reducer setup
 ├── index.js              # Entry point
@@ -49,6 +48,7 @@ src/
     ├── TimerForm.js      # Add new timer form
     ├── TimerItem.js      # Individual timer with countdown
     └── CategorySection.js# Timer groups and bulk controls
+    
 ⚙️ Technologies Used
 React.js
 
