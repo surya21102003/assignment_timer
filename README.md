@@ -24,12 +24,15 @@ A categorized, multi-timer web app built with React.js. Supports countdown timer
 1. Clone the repository
 git clone https://github.com/surya21102003/assignment_timer
 cd timer-app
-2. Install dependencies
 
-npm install
+3. Install dependencies
+
+npm install,
+
 3. Run the development server
 
-npm start
+npm start,
+
 The app will run at: http://localhost:3000
 
 🗂 Folder Structure
