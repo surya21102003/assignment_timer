@@ -22,7 +22,7 @@ A categorized, multi-timer web app built with React.js. Supports countdown timer
 
 🚀 Getting Started
 1. Clone the repository
-git clone https://github.com/your-username/timer-app.git
+git clone https://github.com/surya21102003/assignment_timer
 cd timer-app
 2. Install dependencies
 
